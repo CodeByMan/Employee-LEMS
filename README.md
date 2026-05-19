@@ -27,25 +27,15 @@
 
 ## 📸 Project Screenshots
 
-> Add your real screenshots inside `docs/screenshots/` using the same filenames below.
+> Screenshots are stored inside `public/screenshots/`.
 
 | Landing Page | Login Page |
 |---|---|
-| ![Landing Page](docs/screenshots/landing-page.png) | ![Login Page](docs/screenshots/login.png) |
+| ![Landing Page](public/screenshots/landing_page.png) | ![Login Page](public/screenshots/login.png) |
 
 | Register Page | Admin Dashboard |
 |---|---|
-| ![Register Page](docs/screenshots/register.png) | ![Admin Dashboard](docs/screenshots/admin-dashboard.png) |
-
-| Learner Management | QR Attendance |
-|---|---|
-| ![Learner Management](docs/screenshots/learner-management.png) | ![QR Attendance](docs/screenshots/qr-attendance.png) |
-
-| Announcements | Email Audit Logs |
-|---|---|
-| ![Announcements](docs/screenshots/announcements.png) | ![Email Audit Logs](docs/screenshots/email-audit-logs.png) |
-
----
+| ![Register Page](public/screenshots/register.png) | ![Admin Dashboard](public/screenshots/admin_dashboard.png) |
 
 ## 🚀 Project Overview
 
