@@ -27,8 +27,6 @@
 
 ## 📸 Project Screenshots
 
-> Screenshots are stored inside `public/screenshots/`.
-
 | Landing Page | Login Page |
 |---|---|
 | ![Landing Page](public/screenshots/landing_page.png) | ![Login Page](public/screenshots/login.png) |
@@ -601,60 +599,10 @@ This project demonstrates practical full-stack Laravel development skills, inclu
 
 ---
 
-## 🔒 Security Notes
-
-Before pushing this project to GitHub, make sure these files and folders are not committed:
-
-```text
-.env
-/vendor
-/node_modules
-/storage/*.key
-```
-
-Your `.env` file contains sensitive information and should never be uploaded publicly.
-
-Use `.env.example` for public environment configuration examples.
-
-Recommended production settings:
-
-```env
-APP_ENV=production
-APP_DEBUG=false
-```
-
----
-
-## 📌 Repository Information
-
-Recommended repository name:
-
-```text
-skilltrack-lms
-```
-
-Suggested repository description:
-
-```text
-A Laravel-based Learner Management System with QR attendance, OTP registration, role-based access, email announcements, and audit logs.
-```
-
-Suggested topics:
-
-```text
-laravel php mysql learner-management-system lms qr-attendance role-based-access laravel-breeze spatie-permission tailwindcss bootstrap
-```
-
----
-
 ## 👨‍💻 Author
 
 **Muhammad Ali Nawaz**  
 Full-Stack PHP / Laravel Developer
-
-- GitHub: [CodeByMan](https://github.com/CodeByMan)
-
-Built as a portfolio project to demonstrate practical Laravel development, learner management workflows, QR attendance, role-based access control, authentication, email announcements, audit logs, and responsive dashboard design.
 
 ---
 
@@ -668,6 +616,3 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
   <b>⭐ If you like this project, consider starring the repository!</b>
 </p>
 
-<p align="center">
-  <b>🎓 SkillTrack LMS — Smart Learner Management with Laravel</b>
-</p>
